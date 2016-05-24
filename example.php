@@ -8,7 +8,7 @@ require_once('class/Telegram/TelegramBot.php');
  * 
  * @author larfeus
  */
-class ExampleBot extends TelegramBot {
+class ExampleBot extends Telegram\TelegramBot {
 
 	/**
 	 * @var string
